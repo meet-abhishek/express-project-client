@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.dashboard {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .dashboard-button {
+    margin-top: 10px;
+  }
+  
+  .hidden-message {
+    margin-top: 10px;
+    color: green;
+  }
+  
