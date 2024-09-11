@@ -1,5 +1,5 @@
 console.log('Welcome to Heaven');
-const API_URL = window.location.hostname === 'localhost' ? 'http://localhost:3000' : 'https://your-production-url.com';
+const API_URL = window.location.hostname === 'localhost' ? 'http://localhost:3000' : 'https://express-project-server.onrender.com';
 
 // Create the main container for the dashboard with Bootstrap styles
 function createDashboard() {
